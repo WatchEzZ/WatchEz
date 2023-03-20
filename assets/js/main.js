@@ -1,5 +1,3 @@
-console.log("made by TheGoldenHecker#7777");
-
 let counter = 0; let Title = 'By Watcher#7437'; let direction = true;
 aniTitle = setInterval(function () {
     if (counter == Title.length) direction = false;
