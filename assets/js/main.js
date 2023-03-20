@@ -1,4 +1,4 @@
-let counter = 0; let Title = 'By Watcher#7437'; let direction = true;
+let counter = 0; let Title = 'By WatchEz Studios'; let direction = true;
 aniTitle = setInterval(function () {
     if (counter == Title.length) direction = false;
     if (counter == false) direction = true;
